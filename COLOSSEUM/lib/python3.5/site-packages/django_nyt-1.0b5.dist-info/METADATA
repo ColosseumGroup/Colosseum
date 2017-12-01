@@ -1,0 +1,28 @@
+Metadata-Version: 2.0
+Name: django-nyt
+Version: 1.0b5
+Summary: A pluggable notification system written for the Django framework.
+Home-page: https://github.com/benjaoming/django-nyt
+Author: Benjamin Bach
+Author-email: benjamin@overtag.dk
+License: Apache License 2.0
+Keywords: django,notificationalerts
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: django (>=1.7)
+Requires-Dist: six
+
+UNKNOWN
+
+

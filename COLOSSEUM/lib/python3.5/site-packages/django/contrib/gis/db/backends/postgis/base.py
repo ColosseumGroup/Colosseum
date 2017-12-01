@@ -1,7 +1,6 @@
 from django.db.backends.base.base import NO_DB_ALIAS
-from django.db.backends.postgresql.base import (
-    DatabaseWrapper as Psycopg2DatabaseWrapper,
-)
+from django.db.backends.postgresql.base import \
+    DatabaseWrapper as Psycopg2DatabaseWrapper
 
 from .features import DatabaseFeatures
 from .introspection import PostGISIntrospection
